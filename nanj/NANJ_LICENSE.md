@@ -1,6 +1,8 @@
 MIT License
 
 NANJ-COIN/Token Solidity  
+https://github.com/NANJ-COIN/token
+
 Copyright (c) 2018 Tsuchinoko-kemofure  
 
 Permission is hereby granted, free of charge, to any person
