@@ -1,7 +1,6 @@
-GOSHUIN Token Solidity
-
 MIT License
 
+GOSHUIN Token Solidity
 Copyright (c) 2018-2019 Akitsugu Komiyama
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -23,10 +22,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.  
 
 -----
-NANJ-COIN/Token Solidity
-
 MIT License
 
+NANJ-COIN/Token Solidity
 Copyright (c) 2018 Tsuchinoko-kemofure
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
