@@ -1,5 +1,3 @@
-GOSHUIN Token Solidity
-
 MIT License
 
 Copyright (c) 2018-2019 Akitsugu Komiyama
