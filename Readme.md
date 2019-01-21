@@ -6,19 +6,19 @@
 * 200億枚
 
 # 名前
-* GOSHUIN Token
+* GOSHUIN Saisen
 
 # シンボル
-* GSIN
+* GINS
 
 # コンパイラバージョン
 * v0.4.25+commit.59dbf8f1
 
 # 本番イーサネット用 GOSHUIN TOKEN
 
-* https://etherscan.io/address/0x06ff3fd51eed930878c15c65184da5bfdd61fc69#code
+* https://etherscan.io/address/0x2b6cf1d56a3236435bfd74c51f2ac95ed4360730#code
 
 # テストネット用 GOSHUIN TOKEN
 
-* https://rinkeby.etherscan.io/address/0x761911daef1fa3a65b619bfb45fd1a5f57f1cc1c#code
+* https://rinkeby.etherscan.io/address/0xae65363c8dbeae662a4fc0f31d1109bf1277dbea#code
 

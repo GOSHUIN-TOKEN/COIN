@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity ^0.4.25;
 
 /**
  * @title GOSHUIN
@@ -146,11 +146,11 @@ contract ERC223 {
  * @dev GOSHUIN is an ERC223 Token with ERC20 functions and events
  *      Fully backward compatible with ERC20
  */
-contract GOSHUIN is ERC223, Ownable {
+contract GOSHUINSaisen is ERC223, Ownable {
     using SafeMath for uint256;
 
-    string public name = "GOSHUIN";
-    string public symbol = "GOSHUIN";
+    string public name = "GOSHUIN Saisen";
+    string public symbol = "GINS";
     uint8 public decimals = 8;
     uint256 public totalSupply = 1e10 * 2e8;
     uint256 public distributeAmount = 0;
@@ -170,7 +170,7 @@ contract GOSHUIN is ERC223, Ownable {
     /** 
      * @dev Constructor is called only once and can not be called again
      */
-    function GOSHUIN() public {
+    function GOSHUINSaisen() public {
         balanceOf[msg.sender] = totalSupply;
     }
 
