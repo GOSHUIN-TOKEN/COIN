@@ -20,6 +20,6 @@
 
 # テストネット用 GOSHUIN Saisen
 
-* 最　新：https://rinkeby.etherscan.io/address/0x7B953Fd77b03605CB0aa639f51D80B181dE93B3d#code
+* 最　新：https://rinkeby.etherscan.io/address/0x0edd887a666e06b36991f0679b2561f4294fa158#code
 * １つ前：https://rinkeby.etherscan.io/address/0xae65363c8dbeae662a4fc0f31d1109bf1277dbea#code
 
