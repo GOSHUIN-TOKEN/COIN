@@ -20,7 +20,7 @@
 
 # テストネット用 GOSHUIN Saisen
 
-* 最　新：https://rinkeby.etherscan.io/address/0xb1b5481e367231069aafc39903b2ff7ad1fa6f3d#contracts
+* 最　新：https://rinkeby.etherscan.io/address/0x9ad3df9e25d14865bcf71a75d29422e4b30c21c6#contracts
 * １つ前：https://rinkeby.etherscan.io/address/0xadc0820c0ccd7bd0fbf8bde1d3df1998f3842689#contracts
 * ２つ前：https://rinkeby.etherscan.io/address/0xae65363c8dbeae662a4fc0f31d1109bf1277dbea#contracts
 
