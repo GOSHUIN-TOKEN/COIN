@@ -16,10 +16,11 @@
 
 # 本番イーサネット用 GOSHUIN Saisen
 
-* 最　新：https://etherscan.io/address/0x2b6cf1d56a3236435bfd74c51f2ac95ed4360730#code
+* 最　新：https://etherscan.io/address/0x2b6cf1d56a3236435bfd74c51f2ac95ed4360730#contracts
 
 # テストネット用 GOSHUIN Saisen
 
-* 最　新：https://rinkeby.etherscan.io/address/0xadc0820c0ccd7bd0fbf8bde1d3df1998f3842689#code
-* １つ前：https://rinkeby.etherscan.io/address/0xae65363c8dbeae662a4fc0f31d1109bf1277dbea#code
+* 最　新：https://rinkeby.etherscan.io/address/0xb1b5481e367231069aafc39903b2ff7ad1fa6f3d#contracts
+* １つ前：https://rinkeby.etherscan.io/address/0xadc0820c0ccd7bd0fbf8bde1d3df1998f3842689#contracts
+* ２つ前：https://rinkeby.etherscan.io/address/0xae65363c8dbeae662a4fc0f31d1109bf1277dbea#contracts
 
